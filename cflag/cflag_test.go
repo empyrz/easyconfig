@@ -1,7 +1,7 @@
-package cflag_test
+github.com/empyrz/easyconfigpackage cflag_test
 
-import "gopkg.in/hlandau/easyconfig.v1/cflag"
-import "gopkg.in/hlandau/easyconfig.v1/adaptflag"
+import "github.com/empyrz/easyconfig/cflag"
+import "github.com/empyrz/easyconfig/adaptflag"
 import flag "github.com/ogier/pflag"
 import "fmt"
 
