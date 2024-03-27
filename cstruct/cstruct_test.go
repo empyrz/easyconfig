@@ -1,8 +1,8 @@
 package cstruct_test
 
 import "gopkg.in/hlandau/configurable.v1"
-import "gopkg.in/hlandau/easyconfig.v1/cstruct"
-import "gopkg.in/hlandau/easyconfig.v1/adaptflag"
+import "github.com/empyrz/easyconfig/cstruct"
+import "github.com/empyrz/easyconfig/adaptflag"
 import flag "github.com/ogier/pflag"
 import "fmt"
 
