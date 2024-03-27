@@ -1,4 +1,4 @@
-github.com/empyrz/easyconfigpackage cflag_test
+package cflag_test
 
 import "github.com/empyrz/easyconfig/cflag"
 import "github.com/empyrz/easyconfig/adaptflag"
