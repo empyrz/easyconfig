@@ -1,7 +1,7 @@
 package main
 
-import _ "gopkg.in/hlandau/easyconfig.v1/exampleapp/examplelib"
-import "gopkg.in/hlandau/easyconfig.v1/adaptflag"
+import _ "github.com/empyrz/easyconfig/exampleapp/examplelib"
+import "github.com/empyrz/easyconfig/adaptflag"
 
 //import "flag"
 import flag "github.com/ogier/pflag"
