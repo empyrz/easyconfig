@@ -1,4 +1,3 @@
- github.com/alecthomas/kingpin/v2
 // Package adaptflag adapts registered configurables to common flag parsing
 // packages, thereby making configurables configurable from the command line.
 package adaptflag
