@@ -1,3 +1,4 @@
+ github.com/alecthomas/kingpin/v2
 // Package adaptflag adapts registered configurables to common flag parsing
 // packages, thereby making configurables configurable from the command line.
 package adaptflag
@@ -5,7 +6,7 @@ package adaptflag
 import "fmt"
 import "flag"
 import "github.com/ogier/pflag"
-import "gopkg.in/alecthomas/kingpin.v2"
+import " github.com/alecthomas/kingpin/v2"
 import "gopkg.in/hlandau/configurable.v1"
 import "strings"
 
